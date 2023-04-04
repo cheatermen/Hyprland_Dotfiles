@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Hyprland Exec
+Comment=An intelligent dynamic tiling Wayland compositor
+Exec=/home/wook/.config/hypr/exec-hyprland
+Type=Application
